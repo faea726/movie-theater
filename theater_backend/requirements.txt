@@ -1,0 +1,15 @@
+# Basic
+django
+
+# File upload
+pillow
+
+# Rest API
+django_rest_framework
+django-cors-headers
+
+# API documentation
+drf-yasg
+
+# External requests
+requests
